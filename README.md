@@ -1,3 +1,6 @@
+    原文连接  https://github.com/crazymaik/remoteyourcam-usb
+    由于原项目是eclipse项目结构，所以很不方便，我把项目结构转成现在主流的Studio结构，方便大家使用。亲测项目连接项目没有问题，读取照片，拍照获取图片功能正常。
+    
     Copyright 2013 Nils Assbeck, Guersel Ayaz and Michael Zoech
     
     Licensed under the Apache License, Version 2.0 (the "License");
